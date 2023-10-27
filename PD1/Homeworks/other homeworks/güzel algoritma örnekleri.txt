@@ -1,0 +1,6 @@
+algoritma zor örnekler:
+her iki basamağı da asal olan 2 basamaklı asal sayıları listeleyen akış diyagramı:
+girilen 3 basamaklı pozitif sayının basamaklarındaki rakamların toplamını ve aritmetik ort veren akış diyagramı:
+
+
+
