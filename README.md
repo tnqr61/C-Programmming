@@ -1,2 +1,2 @@
 # C-Programmming
-Üniversite C programlama dili LAB,Ödev,Çalışma ve deneme Kodlarım.
+C programming basics and tutorial project examples
